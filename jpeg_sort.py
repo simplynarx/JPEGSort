@@ -133,7 +133,7 @@ if __name__ == "__main__":
             "\tjpeg_sort.py [working_directory]\n"
             "\tjpeg_sort.py [working_directory] [output_directory]\n\n"
             "The default working directory is '.'\n"
-            "The default output directory is './Output'\n"
+            "The default output directory is 'working_directory/Output'\n"
         )
         exit()
 
@@ -149,7 +149,7 @@ if __name__ == "__main__":
             "\tjpeg_sort.py [working_directory]\n"
             "\tjpeg_sort.py [working_directory] [output_directory]\n\n"
             "The default working directory is '.'\n"
-            "The default output directory is './Output'\n"
+            "The default output directory is 'working_directory/Output'\n"
         )
         exit()
 

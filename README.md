@@ -11,5 +11,5 @@ jpeg_sort.py [working directory] [output directory]
 
 The default working directory is `.`
 
-The default output directory is `./Output`
+The default output directory is `working_directory/Output`
 
