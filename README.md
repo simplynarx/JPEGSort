@@ -1,6 +1,6 @@
 # JPEGSort.py
 
-Simple Python script to sort JPEG files into directories by year, based on EXIF metadata, using the Pillow library for Python. Used to sort old family photos.
+Simple Python script to sort and copy JPEG files into directories by year, based on EXIF metadata, using the Pillow library for Python. Used to sort old family photos.
 
 ### Usage
 ```
