@@ -15,4 +15,4 @@ The default output directory is `working_directory/Output`
 
 ### Example
 
-![demo]{demo.png}
+![demo](demo.png)
