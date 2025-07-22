@@ -13,6 +13,8 @@ The default working directory is `.`
 
 The default output directory is `working_directory/Output`
 
+For help: `jpeg_sort.py -h`, `jpeg_sort.py --help`
+
 ### Example
 
 ![demo](demo.png)
