@@ -13,3 +13,6 @@ The default working directory is `.`
 
 The default output directory is `working_directory/Output`
 
+### Example
+
+![demo]{demo.png}
